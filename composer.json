@@ -1,6 +1,5 @@
 {
     "name": "vladimir/compo-plan",
-    "description": "Training symfony app based on compo-plan app",
     "license": "MIT",
     "type": "project",
     "autoload": {

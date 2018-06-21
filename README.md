@@ -20,8 +20,6 @@ https://docs.docker.com/compose/install/#install-compose
 
 install dependencies `composer install`
 
-OR  
-
 **Start up containers**
 
 rights of the **var/** directory must be 777 before
